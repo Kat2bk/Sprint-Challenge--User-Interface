@@ -4,3 +4,19 @@
     box-sizing: border-box;
     max-width: 100%;
 }
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 0%;
+}
+
+.nav a {
+    color: black;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    color: silver;
+}
