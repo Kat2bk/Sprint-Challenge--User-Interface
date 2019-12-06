@@ -1,0 +1,40 @@
+
+.banner {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.parent-column {
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+}
+
+.child {
+    width: 48%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+hr {
+    border-top: 1px dashed black;
+}
+
+.line-break {
+    border-top: 1px dashed black;
+    margin-top: 10%;
+}
+
+.button {
+    text-decoration: none;
+    border: 2px solid black;
+    color: black;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
