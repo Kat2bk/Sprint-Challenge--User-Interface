@@ -6,8 +6,9 @@
 
 .parent-column {
     display: flex;
-    flex-direction: column;
-    flex-flow: wrap;
+    /* flex-direction: column; */
+    /* flex-flow: wrap; */
+    flex-wrap: wrap;
 }
 
 .child {

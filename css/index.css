@@ -5,7 +5,11 @@
     padding: 10px;
 }
 
-#box1 {
+.container {
+    margin: 7% auto;
+}
+
+/* #box1 {
     background-color: teal;
 }
 
@@ -43,4 +47,4 @@
 
 #box10 {
     background-color: dodgerblue;
-}
+} */
