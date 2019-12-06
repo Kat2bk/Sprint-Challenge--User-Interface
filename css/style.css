@@ -1,0 +1,6 @@
+/* style for both pages */
+
+* {
+    box-sizing: border-box;
+    max-width: 100%;
+}
